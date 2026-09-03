@@ -1,6 +1,8 @@
 {
-  "version": 1,
-  "force_update": false,
-  "message": "نسخه جدید SAiCO آماده است",
+  "version": 2,
+  "force_update": true,
+  "message": "لطفاً نسخه جدید SAiCO را نصب کنید",
   "download_url": ""
 }
+
+Commit کن.
