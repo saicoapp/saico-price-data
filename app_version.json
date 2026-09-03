@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "force_update": true,
-  "message": "لطفاً نسخه جدید SAiCO را نصب کنید",
+  "version": 1,
+  "force_update": false,
+  "message": "",
   "download_url": ""
 }
