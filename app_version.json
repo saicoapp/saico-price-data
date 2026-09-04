@@ -1,6 +1,6 @@
 {
-  "version": 99,
+  "version": 2,
   "force_update": true,
-  "message": "TEST",
-  "download_url": ""
+  "message": "نسخه جدید SAiCO آماده است. لطفاً آپدیت کنید.",
+  "download_url": "https://example.com/saico.apk"
 }
