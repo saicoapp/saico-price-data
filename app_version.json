@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "force_update": false,
-  "message": "",
-  "download_url": ""
+  "version": 3,
+  "force_update": true,
+  "message": "نسخه جدید SAiCO آماده نصب است",
+  "download_url": "لینک فایل apk"
 }
