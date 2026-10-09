@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "force_update": true,
-  "message": "نسخه جدید SAiCO آماده دانلود است.",
-  "download_url": "https://saicoyadak.com/download/saico-v1.apk"
+  "version": 1,
+  "force_update": false,
+  "message": "",
+  "download_url": ""
 }
